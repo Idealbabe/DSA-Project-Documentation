@@ -90,10 +90,11 @@ https://1drv.ms/i/c/4da870f64b8e62b0/ETfTtOleOyVJsnXaE6k0wywB-2Kgju9h1_bROk_Yby2
   
 
 ---
+https://github.com/Ideababe
+### 📞 Connect with Me:https://wa.me/2348036042463
 
-## 📞 Connect with Me:
-
-* **LinkedIn:** [Your LinkedIn Profile URL, e.g., `https://www.linkedin.com/in/bolanleoshadare/`]
-* **Email:** [Your Professional Email Address, e.g., `your.email@example.com`]
+* **LinkedIn:** [https://www.linkedin.com/in/bolanleoshadare/`]
+* **Email:** [osadarebolanle@yahoo.com]
+  
 
 ---
