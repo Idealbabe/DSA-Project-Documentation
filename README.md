@@ -1,4 +1,4 @@
-[Palmoria Group emp-data.csv](https://github.com/user-attachments/files/20970726/Palmoria.Group.emp-data.csv)# DSA-Project-Documentation
+# DSA-Project-Documentation
 
 # Excel Project: Amazon Product Review Analysis
 
@@ -62,20 +62,21 @@ This project leverages Microsoft Excel to perform in-depth analysis and address 
 ---
 
 ## 📊 Dashboard / Analysis Preview:
-[Amazon case study.xlsx](https://github.com/user-attachments/files/20970743/Amazon.case.study.xlsx)
+
 
 *[Download here]**(Amazon case study.xlsx](https://github.com/user-attachments/files/20970743/Amazon.case.study.xlsx)*
 
 ### Main Dashboard Overview
-![Amazon Excel Dashboard Overview](images/amazon_excel_dashboard_overview.png "Overall view of the Amazon Product Analysis Dashboard in Excel")
+*[<img width="603" alt="Amazon Review" src="https://github.com/user-attachments/assets/84e5d3e9-6c24-4050-8ba1-7fd2a096280f" />]*
 
 ### Average Discount by Category Analysis
 ![Average Discount by Category](images/amazon_avg_discount_category.png "Pivot table and chart showing average discount by product category")
 
-### Top Products by Rating & Reviews
-![Top Products by Rating and Reviews](images/amazon_top_products.png "Table highlighting top products based on combined rating and review count")
+### Top 5 Products by Rating & Reviews
+<img width="888" alt="Top 5 products by Average rating" src="https://github.com/user-attachments/assets/37e38ea9-31f9-4428-ab20-b9f30caac709" />
 
-*[Add more screenshots here for other key insights, pivot tables, and charts]*
+
+
 
 ---
 
