@@ -71,7 +71,7 @@ This project leverages Microsoft Excel to perform in-depth analysis and address 
 
 
 ### Average Discount by Category Analysis
-<img width="314" alt="Average Discount Percentage by product Category" src="https://github.com/user-attachments/assets/0264390d-9a01-4ae5-9ab5-535a9abc9f73" />
+[<img width="603" alt="Amazon Review" src="https://github.com/user-attachments/assets/84e5d3e9-6c24-4050-8ba1-7fd2a096280f" />]
 
 ### Top 5 Products by Rating & Reviews
 <img width="888" alt="Top 5 products by Average rating" src="https://github.com/user-attachments/assets/37e38ea9-31f9-4428-ab20-b9f30caac709" />
@@ -82,14 +82,12 @@ This project leverages Microsoft Excel to perform in-depth analysis and address 
 
 https://1drv.ms/i/c/4da870f64b8e62b0/ETfTtOleOyVJsnXaE6k0wywB-2Kgju9h1_bROk_Yby2fxw?e=x0fHoU
 
-
-
 ---
 
 ## 📁 Project Files:
 
-* **Excel Workbook:** You can download the complete Excel analysis file [here](files/Amazon_Product_Review_Analysis.xlsx) to explore the formulas, pivot tables, and data transformations.
-* **Raw Dataset:** The original dataset used for this analysis can be found [here](data/amazon_reviews_dataset.csv) (if you include the raw data).
+* **Excel Workbook:** You can download the complete Excel analysis file [Download here](https://github.com/user-attachments/files/20970743/Amazon.case.study.xlsx) to explore the formulas, pivot tables, and data transformations.
+* **Raw Dataset:** The original dataset used for this analysis can be found [Download here](<img width="603" alt="Amazon Review" src="https://github.com/user-attachments/assets/84e5d3e9-6c24-4050-8ba1-7fd2a096280f" />)
 
 ---
 
