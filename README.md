@@ -86,7 +86,7 @@ https://1drv.ms/i/c/4da870f64b8e62b0/ETfTtOleOyVJsnXaE6k0wywB-2Kgju9h1_bROk_Yby2
 ## 📁 Project Files:
 
 * **Excel Workbook:** You can download the complete Excel analysis file [Download here](https://github.com/user-attachments/files/20970743/Amazon.case.study.xlsx) to explore the formulas, pivot tables, and data transformations.
-* **Raw Dataset:** The original dataset used for this analysis can be found [Download here](img width="603" alt="Amazon Review" src="https://github.com/user-attachments/assets/84e5d3e9-6c24-4050-8ba1-7fd2a096280f" /)
+* **Raw Dataset:** The original dataset used for this analysis can be found [Download Here](https://github.com/user-attachments/assets/84e5d3e9-6c24-4050-8ba1-7fd2a096280f)
   
 
 ---
