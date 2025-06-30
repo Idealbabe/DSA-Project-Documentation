@@ -71,13 +71,17 @@ This project leverages Microsoft Excel to perform in-depth analysis and address 
 
 
 ### Average Discount by Category Analysis
-![Average Discount by Category](images/amazon_avg_discount_category.png "Pivot table and chart showing average discount by product category")
+<img width="314" alt="Average Discount Percentage by product Category" src="https://github.com/user-attachments/assets/0264390d-9a01-4ae5-9ab5-535a9abc9f73" />
 
 ### Top 5 Products by Rating & Reviews
 <img width="888" alt="Top 5 products by Average rating" src="https://github.com/user-attachments/assets/37e38ea9-31f9-4428-ab20-b9f30caac709" />
+
+### Pivot Table
 ![image](https://github.com/user-attachments/assets/c3ee364c-d289-4f61-b5e6-fa8d721a5ae6)
 
+
 https://1drv.ms/i/c/4da870f64b8e62b0/ETfTtOleOyVJsnXaE6k0wywB-2Kgju9h1_bROk_Yby2fxw?e=x0fHoU
+
 
 
 ---
